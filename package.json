@@ -1,0 +1,11 @@
+{
+  "name": "rayzia-mcp",
+  "version": "0.2.0",
+  "description": "MCP server that drives the Rayzia online SVG editor: draw with real tools, edit live artwork, read state, render PNGs.",
+  "type": "module",
+  "bin": { "rayzia-mcp": "./server.mjs" },
+  "engines": { "node": ">=16" },
+  "keywords": ["mcp", "model-context-protocol", "svg", "vector", "editor", "ai", "claude", "drawing"],
+  "homepage": "https://rayzia.com/mcp/",
+  "license": "MIT"
+}
