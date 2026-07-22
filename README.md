@@ -1,5 +1,7 @@
 # Rayzia MCP — an MCP server that drives a real SVG editor
 
+[![Rayzia MCP server on Glama](https://glama.ai/mcp/servers/RayziaOfficial/rayzia-mcp/badges/score.svg)](https://glama.ai/mcp/servers/RayziaOfficial/rayzia-mcp)
+
 [Rayzia](https://rayzia.com) is a free online SVG/vector editor. This MCP server
 lets an AI agent (Claude Code, Claude Desktop, or any MCP client) **drive the
 running editor**: draw with real tools, edit the artwork already on the canvas,
